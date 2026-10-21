@@ -1,4 +1,9 @@
-# 🔒 Network Intrusion Detection System
+#  Network Intrusion Detection System
+
+## Notebook
+
+Full analysis and training code available on Kaggle:  
+[View Notebook](https://www.kaggle.com/code/gillesroy/network-intrusion-detection-system-1)
 
 A machine learning system that detects network attacks in real-time using the CICIDS2017 dataset.
 
