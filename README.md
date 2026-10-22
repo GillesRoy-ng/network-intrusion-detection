@@ -26,3 +26,9 @@ This project builds a multiclass classifier to distinguish between benign traffi
 | Model | Random Forest (100 trees) |
 
 ## Project Structure
+├── app.py                  # Streamlit web application
+├── notebook.ipynb          # Full training pipeline
+└── README.md
+
+> **Note**: The trained model files (.pkl) are not included due to file size.  
+> To reproduce: run the notebook on Kaggle, download the .pkl files, and place them in the same folder as app.py.
